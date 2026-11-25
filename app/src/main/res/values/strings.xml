@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hívásátirányító</string>
+    <string name="nicknames">Becenevek</string>
+    <string name="new_schedule">Új átirányítás</string>
+    <string name="edit_schedule">Átirányítás szerkesztése</string>
+    <string name="new_nickname">Új becenév</string>
+    <string name="edit_nickname">Becenév szerkesztése</string>
+    <string name="nickname_hint">Becenév (pl. Anya, Iroda)</string>
+    <string name="number_hint">Telefonszám (pl. +36301234567)</string>
+    <string name="pick_from_contacts">Kiválasztás a névjegyekből</string>
+    <string name="forward_to">Átirányítás ide:</string>
+    <string name="from_label">Ettől: %1$s</string>
+    <string name="to_label">Eddig: %1$s</string>
+    <string name="save">Mentés</string>
+    <string name="saved">Mentve</string>
+    <string name="cancel">Mégse</string>
+    <string name="delete">Törlés</string>
+    <string name="yes">Igen</string>
+    <string name="open_settings">Beállítások</string>
+    <string name="off_now">Kikapcsolás most</string>
+    <string name="apply_now">Állapot újraküldése</string>
+    <string name="empty_schedules">Még nincs ütemezett átirányítás.\nA + gombbal adhatsz hozzá.</string>
+    <string name="empty_contacts">Még nincs becenév.\nA + gombbal adhatsz hozzá.</string>
+    <string name="hint_long_press">Koppintás: szerkesztés · Hosszan nyomva: törlés</string>
+    <string name="need_contact_first">Először vegyél fel legalább egy becenevet.</string>
+    <string name="confirm_off_now">Kikapcsolod most a hívásátirányítást?</string>
+    <string name="confirm_delete_schedule">Törlöd ezt az ütemezést?</string>
+    <string name="confirm_delete_contact">Törlöd: %1$s? A hozzá tartozó ütemezések is törlődnek.</string>
+    <string name="exact_alarm_needed">A pontos időzítéshez engedélyezd a „Riasztások és emlékeztetők” jogot az alkalmazásnak.</string>
+    <string name="status_off">Átirányítás: KI</string>
+    <string name="status_on">Átirányítás: BE → %1$s (%2$s)</string>
+    <string name="status_no_permission">Nincs engedély hívásindításra – az átirányítás nem fog működni.</string>
+    <string name="state_waiting">Várakozik</string>
+    <string name="state_running">Folyamatban</string>
+    <string name="state_past">Lejárt</string>
+    <string name="state_disabled">Kikapcsolva</string>
+    <string name="err_end_before_start">A befejezésnek a kezdés után kell lennie.</string>
+    <string name="err_in_past">A befejezés már elmúlt.</string>
+    <string name="err_contact">Adj meg becenevet és érvényes telefonszámot.</string>
+    <string name="channel_name">Átirányítás állapota</string>
+    <string name="notif_on">Átirányítás bekapcsolva: %1$s (%2$s)</string>
+    <string name="notif_off">Átirányítás kikapcsolva</string>
+    <string name="notif_no_permission">Nincs hívásindítási engedély, az átirányítás nem állítható.</string>
+    <string name="notif_failed">Nem sikerült az átirányítási kódot elküldeni.</string>
+</resources>
